@@ -1,2 +1,3 @@
 # seaborn-visualizations
-A few graphs using BTS flight data and the seaborn library
+A few graphs using flight data from the US Bureau of Transportation Statistics and Python's Seaborn library.
+Read more here: 
